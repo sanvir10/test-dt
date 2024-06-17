@@ -19,20 +19,7 @@ Your task is to design and implement a data pipeline on AWS that ingests, proces
 
 **Requirements:**
 
-1. **Data Source:** Simulated e-commerce website generates JSON-formatted transaction data. Sample data can be found in [](https://drive.google.com/file/d/1aNAL2jravbMF3BS6GP4G1C-5ONrKHLWG/view?usp=drive_link)https://drive.google.com/file/d/1aNAL2jravbMF3BS6GP4G1C-5ONrKHLWG/view?usp=drive_link
-2. **Ingestion:** Set up a mechanism to ingest data from the source into AWS. Consider using AWS services like AWS Lambda for ingestion.
-3. **Data Processing:** Implement data processing to transform the raw JSON data into a structured format suitable for analytics. Perform basic data cleansing and enrichment. You may use AWS Glue, Amazon EMR, or AWS Lambda for data processing.
-4. **Data Storage:** Store the processed data in a suitable data storage solution on AWS. Consider factors like scalability, performance, and cost-effectiveness. Options include Amazon S3 or Amazon DynamoDB.
-5. **Data Analysis**: Analyze the stored data using AWS Athena. 
-6. **Data Visualization:** Create a simple dashboard to visualize key metrics derived from the processed data. You can use AWS QuickSight or any other visualization tool of your choice.
-
-**Evaluation Criteria:**
-
-- **Functionality:** The pipeline should effectively ingest, process, and store the data while maintaining data integrity and quality.
-- **Scalability:** Design the pipeline to handle varying volumes of data efficiently without manual intervention.
-- **Reliability:** Implement error handling, monitoring, and logging mechanisms to ensure the reliability of the pipeline.
-- **Cost-Efficiency:** Optimize the use of AWS resources to minimize costs while meeting performance requirements.
-- **Documentation:** Provide clear documentation covering the architecture, design decisions, and instructions for deploying and maintaining the pipeline.
+See all details using this [Test](https://www.notion.so/okboyapp/Data-Engineer-Practical-Test-d65193310d3b49639fb3582473023151?pvs=4)
 
 **Deliverables:**
 

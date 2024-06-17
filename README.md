@@ -2,7 +2,7 @@
 
 [TOC]
 
-**NOTE:** [English version of the README](README.en)
+**NOTE:** [English version of the README](README.en.md)
 
 ## Folder Structure
 In this repository we will see, this folders:
